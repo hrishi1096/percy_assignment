@@ -2,7 +2,7 @@ from selenium.webdriver import Firefox, FirefoxOptions
 from percy import percy_snapshot
 
 # Browserstack production website URL
-URL = 'https://www.browserstack.com/'
+URL = 'https://k8s.bsstag.com/'
 
 ENDPOINTS = {
     'homepage': '',
